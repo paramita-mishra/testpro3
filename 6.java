@@ -1,2 +1,1 @@
-abcd created
-testing of reset
+new line
